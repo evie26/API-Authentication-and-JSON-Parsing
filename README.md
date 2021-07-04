@@ -6,6 +6,8 @@ The app.js will show the the code for the app and index.html to view the documen
 ![cityName_query](https://user-images.githubusercontent.com/82679886/124380903-5fd73f80-dcb7-11eb-8f38-7d25d3454fab.jpg)
 ![Weather_output](https://user-images.githubusercontent.com/82679886/124380905-64035d00-dcb7-11eb-9007-136e7fa21fe5.jpg)
 
+CLI commands included: node app.js and nodemon app.js
+
 ![CLI logging1](https://user-images.githubusercontent.com/82679886/124378771-226cb500-dcab-11eb-89b9-e2a111000b9c.jpg)
 ![CLI Logging2](https://user-images.githubusercontent.com/82679886/124378772-239de200-dcab-11eb-839c-894d1a378f8c.jpg)
 
