@@ -1,5 +1,5 @@
 # Weather App
-This a Weather App using Node JS Express to render a website with Live API data. Postman was used to authenticate the API key pair. JSON Language format was also used to parse the selected statement needed to display the weather on the website. It is logged through the CLI terminal which is sync to IDE to take effect immediately of any changes in the script.
+This a Weather App using Node.js Express to render a website with Live API data. Postman was used to authenticate the API key pair. JSON Language format was also used to parse the selected statement needed to display the weather on the website. It is logged through the CLI terminal which is sync to IDE to take effect immediately of any changes in the script.
 
 The app.js will show the the code for the app and index.html to view the document schema of the Weather app.
 
